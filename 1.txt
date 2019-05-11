@@ -1,1 +1,2 @@
-the first practice using git .
+the first practice using git.
+today is sunny day~
